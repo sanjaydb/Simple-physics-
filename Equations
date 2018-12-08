@@ -1,0 +1,5 @@
+Q.How can one calculate the energy required to throw an object an x amount of distance?
+A. If you neglect air, the minimum energy you’d need is: 
+               𝐸𝑚𝑖𝑛=𝑚𝑔𝑥/2 
+     where 𝑔 is the Earth’s surface gravitational acceleration.
+    
