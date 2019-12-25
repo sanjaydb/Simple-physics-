@@ -2,4 +2,16 @@ Q.How can one calculate the energy required to throw an object an x amount of di
 A. If you neglect air, the minimum energy you’d need is: 
                𝐸𝑚𝑖𝑛=𝑚𝑔𝑥/2 
      where 𝑔 is the Earth’s surface gravitational acceleration.
+     
+making Charter jump
+-------------------
+{
+
+  Game loop = {update,draw} 
+  game loop = 30 FPS i.e 1/30 or 60FPS i.e 1/60 
+  delta t = t(p) - t
+  m (p) = m + delta T * velocity(v)
+  velocity(p) = velocity + delta T * Gravity(v)
+
+}
     
